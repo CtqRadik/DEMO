@@ -16,3 +16,10 @@ C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Core
 C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
 C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
