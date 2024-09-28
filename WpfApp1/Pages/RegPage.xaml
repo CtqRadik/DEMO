@@ -19,7 +19,7 @@
             <Label Content="Пароль:"></Label>
             <PasswordBox x:Name="PasswordBox"></PasswordBox>
             <Label Content="Роль:"></Label>
-            <ComboBox >
+            <ComboBox x:Name="RoleComboBox" >
                 <ComboBoxItem Content="Администратор"/>
                 <ComboBoxItem Content="Пользователь"/>
             </ComboBox>

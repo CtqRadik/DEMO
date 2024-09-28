@@ -12,21 +12,30 @@ namespace WpfApp1
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
-    
+
     public partial class HomeEntities : DbContext
     {
+        public static HomeEntities _context;
         public HomeEntities()
             : base("name=HomeEntities")
         {
         }
-    
+        public static HomeEntities GetContext()
+        {
+            if (_context == null)
+            {
+                _context = new HomeEntities();
+            }
+            return _context;
+        }
+
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             throw new UnintentionalCodeFirstException();
         }
     
         public virtual DbSet<Role> Role { get; set; }
-        public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
         public virtual DbSet<User> User { get; set; }
     }
 }
