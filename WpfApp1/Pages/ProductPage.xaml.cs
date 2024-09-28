@@ -13,18 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfApp1
+namespace WpfApp1.Pages
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для ProductPage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ProductPage : Page
     {
-        public MainWindow()
+        public ProductPage()
         {
             InitializeComponent();
-            Clases.Manager.MainFrame = MainFrame;
-            Clases.Manager.MainFrame.Navigate(new Pages.LoginPage());
         }
     }
 }

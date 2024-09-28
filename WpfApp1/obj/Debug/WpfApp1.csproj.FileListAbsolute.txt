@@ -23,3 +23,7 @@ C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\bin\Debug\EntityFramework.Sql
 C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
 C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
 C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\Pages\LoginPage.baml
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\Pages\ProductPage.g.cs
+C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\obj\Debug\Pages\ProductPage.baml

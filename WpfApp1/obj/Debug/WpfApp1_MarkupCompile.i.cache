@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\radik\OneDrive\Desktop\Dz\WpfApp1\WpfApp1\App.xaml
-2-1627891250
+4-1763868568
 2-1957146511
-13-172971237
+15-260959091
 18-1912985453
-MainWindow.xaml;Pages\RegPage.xaml;
+MainWindow.xaml;Pages\LoginPage.xaml;Pages\ProductPage.xaml;Pages\RegPage.xaml;
 
-False
+True
 
